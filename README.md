@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,Myself Gaurav Balade,I'm in 2nd year currently pursuing Computer Engg from DMCE Airoli.<br>I am in the process of assembling a team for the hackathon. I have completed a basic course in web development and possess some knowledge about data structures. I am passionate about learning modern technologies and am currently focusing on backend development. I am excited to collaborate with like-minded individuals to create innovative solutions.
+Hi,Myself Gaurav Balade,I'm in 2nd year currently pursuing Computer Engg from DMCE Airoli.<br>I am in the process of assembling a team for the hackathon. I have completed a basic course in web development and possess some knowledge about data structures. I am passionate about learning modern technologies and am currently focusing on backend development. I am excited to collaborate with like-minded individuals to create innovative solutions..
 
 [![Holopin](https://holopin.me/Gaurav_balade)](https://holopin.io/@Gaurav_balade)
 
